@@ -1,0 +1,33 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta charset="utf-8"><meta name="description" content="Information about how to buy crypto wordlwide"><title>Crypto Guide</title><link rel="stylesheet" href="/site.css"></head><body class="font-sans leading-normal tracking-normal text-gray-900"><div class="relative bg-white"><div class="max-w-7xl mx-auto px-4 sm:px-6"><div class="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10"><div class="flex justify-start lg:w-0 lg:flex-1"><a href="/"><span class="font-extrabold">Crypto Guide</span></a></div><nav class="flex space-x-10"><a href="/countries/" class="text-base font-medium text-gray-500 hover:text-gray-900">Countries </a><a href="/tokens/" class="text-base font-medium text-gray-500 hover:text-gray-900">Tokens </a><a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Help</a></nav></div></div></div><main class="container flex flex-col flex-wrap px-6 mx-auto"><div class="text-center mt-10"><h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">Welcome</h2><p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Find your token</p><p class="mt-4 max-w-2xl text-xl text-gray-500 mx-auto">Search for avalible tokens</p></div><div class="m-4 mb-10 text-center"><input id="autoComplete" type="search" dir="ltr" spellcheck="false" autocorrect="off" autocomplete="off" autocapitalize="off" maxlength="2048" tabindex="1" class="border rounded p-2 w-full"></div></main><script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@9.0.3/dist/js/autoComplete.min.js"></script><script>new autoComplete({
+            selector: "#autoComplete",
+            placeHolder: "Search for Token...",
+            data: {
+                src: async function () {
+                	tokenlist = [{"name":"Dogecoin","code":"DOGE"},{"name":"Litecoin","code":"LTC"},{"name":"Vechain","code":"VET"},{"name":"Tether","code":"USDT"},{"name":"ChainLink","code":"LINK"},{"name":"Bitcoin","code":"BTC"},{"name":"Ethereum","code":"ETH"},{"name":"Binance Coin","code":"BNB"},{"name":"XRP","code":"XRP"},{"name":"Bitcoin Cash","code":"BCH"},{"name":"Dotcoin","code":"DOT"},{"name":"Universe","code":"UNI"},{"name":"Cardano","code":"ADA"}]
+                	return tokenlist.map(item=> item = item.name+` (${item.code})`);
+                }
+
+            },
+            resultsList: {
+            	className: "p-2 border rounded text-left",
+                noResults: (list, query) => {
+                    // Create "No Results" message list element
+                    const message = document.createElement("li");
+                    message.setAttribute("class", "no_result");
+                    // Add message text content
+                    message.innerHTML = `<span>Found No Results for "${query}"</span>`;
+                    // Add message list element to the list
+                    list.appendChild(message);
+                },
+            },
+            resultItem: {
+                highlight: {
+                    render: true
+                }
+            },
+            onSelection: (feedback) => {
+			    console.log(feedback.selection.value.match(/\(([^)]+)\)/)[1]);
+			    url = "/token/"+feedback.selection.value.match(/\(([^)]+)\)/)[1]
+			    window.location = url;
+			},
+        });</script><footer class="p-10 text-center border-t">© 2021</footer></body></html>
