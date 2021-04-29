@@ -3,7 +3,7 @@
             placeHolder: "Search for Token...",
             data: {
                 src: async function () {
-                	tokenlist = [{"name":"Dogecoin","code":"DOGE"},{"name":"Litecoin","code":"LTC"},{"name":"Vechain","code":"VET"},{"name":"Tether","code":"USDT"},{"name":"ChainLink","code":"LINK"},{"name":"Bitcoin","code":"BTC"},{"name":"Ethereum","code":"ETH"},{"name":"Binance Coin","code":"BNB"},{"name":"XRP","code":"XRP"},{"name":"Bitcoin Cash","code":"BCH"},{"name":"Dotcoin","code":"DOT"},{"name":"Universe","code":"UNI"},{"name":"Cardano","code":"ADA"}]
+                	tokenlist = [{"name":"Dogecoin","code":"DOGE"},{"name":"Litecoin","code":"LTC"},{"name":"ChainLink","code":"LINK"},{"name":"Bitcoin","code":"BTC"},{"name":"Universe","code":"UNI"},{"name":"XRP","code":"XRP"},{"name":"Cardano","code":"ADA"},{"name":"Ethereum","code":"ETH"},{"name":"Bitcoin Cash","code":"BCH"},{"name":"Vechain","code":"VET"},{"name":"Dotcoin","code":"DOT"},{"name":"Binance Coin","code":"BNB"},{"name":"Tether","code":"USDT"}]
                 	return tokenlist.map(item=> item = item.name+` (${item.code})`);
                 }
 
