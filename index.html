@@ -3,7 +3,7 @@
             placeHolder: "Search for Token...",
             data: {
                 src: async function () {
-                	tokenlist = [{"id":"1700","name":"Aeternity","code":"AE"},{"id":"512","name":"Stellar","code":"XLM"},{"id":"8229","name":"UniMex Network","code":"UMX"},{"id":"1908","name":"Nebulas","code":"NAS"},{"id":"2492","name":"Elastos","code":"ELA"},{"id":"7224","name":"DODO","code":"DODO"},{"id":"3144","name":"ThoreCoin","code":"THR"},{"id":"4769","name":"EOS Force","code":"EOSC"},{"id":"8717","name":"Oddz","code":"ODDZ"},{"id":"5446","name":"USDJ","code":"USDJ"}]
+                	tokenlist = []
                 	return tokenlist.map(item=> item = item.name+` (${item.code})`);
                 }
 
