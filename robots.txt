@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://cryptoguide.github.io/sitemap.xml
