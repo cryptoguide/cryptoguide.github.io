@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://cryptoguide.github.io/simple_loc.xml</loc>
+    <loc>https://cryptoguide.github.io/sitemap_loc.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://cryptoguide.github.io/simple_tokens.xml</loc>
+    <loc>https://cryptoguide.github.io/sitemap_tokens.xml</loc>
   </sitemap>
   
   <sitemap>
@@ -29,10 +29,6 @@
   
   <sitemap>
     <loc>https://cryptoguide.github.io/sitemap-5.xml</loc>
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://cryptoguide.github.io/sitemap-6.xml</loc>
   </sitemap>
   
 </sitemapindex>
