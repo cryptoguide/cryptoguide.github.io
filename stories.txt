@@ -238,7 +238,6 @@ https://cryptoguide.github.io/token/COS/story/
 https://cryptoguide.github.io/token/AKT/story/
 https://cryptoguide.github.io/token/MATH/story/
 https://cryptoguide.github.io/token/APL/story/
-<changefreq>/story/
 https://cryptoguide.github.io/token/DNT/story/
 https://cryptoguide.github.io/token/MET/story/
 https://cryptoguide.github.io/token/BTU/story/
