@@ -2,117 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptoguide.github.io/tokens/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/ETH/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/ETH/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/XRP/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/XRP/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/USDC/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/USDC/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/BNB/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/BNB/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://cryptoguide.github.io/token/BTC/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://cryptoguide.github.io/token/BTC/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
-    <loc>https://cryptoguide.github.io/token/ICP/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <loc>https://cryptoguide.github.io/token/XRP/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://cryptoguide.github.io/token/ICP/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/USDT/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/USDT/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <loc>https://cryptoguide.github.io/token/XRP/story/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
-    <loc>https://cryptoguide.github.io/token/DOT/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <loc>https://cryptoguide.github.io/token/USDC/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://cryptoguide.github.io/token/DOT/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <loc>https://cryptoguide.github.io/token/USDC/story/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://cryptoguide.github.io/token/ADA/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://cryptoguide.github.io/token/ADA/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cryptoguide.github.io/token/USDT/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://cryptoguide.github.io/token/USDT/story/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cryptoguide.github.io/token/ICP/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://cryptoguide.github.io/token/ICP/story/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cryptoguide.github.io/token/ETH/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://cryptoguide.github.io/token/ETH/story/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://cryptoguide.github.io/token/DOGE/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://cryptoguide.github.io/token/DOGE/story/</loc>
-    <lastmod>2021-11-25 09:51</lastmod>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cryptoguide.github.io/token/DOT/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://cryptoguide.github.io/token/DOT/story/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>https://cryptoguide.github.io/token/BNB/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://cryptoguide.github.io/token/BNB/story/</loc>
+    <lastmod>2021-11-25 10:52</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
