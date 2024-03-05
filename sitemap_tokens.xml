@@ -2,282 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptoguide.github.io/tokens/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
+    <lastmod>2024-03-05 14:26</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
-    <loc>https://cryptoguide.github.io/token/ILV/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
+    <loc>https://cryptoguide.github.io/token/IHF/</loc>
+    <lastmod>2024-03-05 14:26</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://cryptoguide.github.io/token/ILV/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/BNANA/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/BNANA/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
+    <loc>https://cryptoguide.github.io/token/IHF/story/</loc>
+    <lastmod>2024-03-05 14:26</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
-    <loc>https://cryptoguide.github.io/token/TRU/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
+    <loc>https://cryptoguide.github.io/token/EVZ/</loc>
+    <lastmod>2024-03-05 14:26</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://cryptoguide.github.io/token/TRU/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/ARDX/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/ARDX/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/DIP/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/DIP/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/VIA/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/VIA/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/VGX/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/VGX/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/CONV/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/CONV/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/BOND/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/BOND/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/VID/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/VID/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/FRONT/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/FRONT/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/AVA/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/AVA/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/PCX/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/PCX/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/VAI/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/VAI/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/CDT/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/CDT/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/NOIA/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/NOIA/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/VSP/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/VSP/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/BASID/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/BASID/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/BF/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/BF/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/BOSON/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/BOSON/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/WEST/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/WEST/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/ALPHA/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/ALPHA/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/BRG/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/BRG/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/EASY/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/EASY/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <url>
-    <loc>https://cryptoguide.github.io/token/MDT/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://cryptoguide.github.io/token/MDT/story/</loc>
-    <lastmod>2024-03-05 11:41</lastmod>
+    <loc>https://cryptoguide.github.io/token/EVZ/story/</loc>
+    <lastmod>2024-03-05 14:26</lastmod>
     <changefreq>daily</changefreq>
   </url>
 
